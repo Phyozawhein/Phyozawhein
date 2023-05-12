@@ -34,14 +34,19 @@ I'm a computer science graduate from City College of New York. I am a software d
 <img  align="left" alt="Bash" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <br />
 
+<br/>
+
 #
 
 ### 📊 Stats
 
 
-| <a href="https://github.com/phyozawhein/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phyozawhein&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Phyo's github stats" /></a> | <a href="https://github.com/phyozawhein/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyozawhein&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phyozawhein&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Phyo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyozawhein&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=phyozawhein&theme=buefy&border_radius=4.5) 
+
+
 
 #
 
