@@ -44,7 +44,7 @@ I'm a computer science graduate from City College of New York. I am a software d
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phyozawhein&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Phyo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyozawhein&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
-![GitHub Streak](https://streak-stats.demolab.com?user=phyozawhein&theme=buefy&border_radius=4.5) 
+![GitHub Streak](https://streak-stats.demolab.com?user=phyozawhein&theme=buefy&hide_border=true) 
 
 
 
