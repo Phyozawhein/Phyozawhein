@@ -1,6 +1,6 @@
 # 👓 💻 Phyo Hein 
 
-**`Software Developer`**
+## `Software Developer`
 
 I'm a computer science graduate from City College of New York. I am a software developer. I love problem solving, automating laborius tasks, and building user interface component. 
 
@@ -18,7 +18,7 @@ I'm a computer science graduate from City College of New York. I am a software d
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -32,25 +32,30 @@ I'm a computer science graduate from City College of New York. I am a software d
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img  align="left" alt="Bash" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<br />
 <br />
 
-<br/>
+#
+
+## 📊 Stats
+
+<div class="stye" align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyozawhein&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=phyozawhein&count_private=true&theme=buefy&hide_border=true) 
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=phyozawhein&layout=compact&theme=buefy&hide_border=true")
+
+</div>
 
 #
 
-### 📊 Stats
+<!--## 👨‍💻 My Career Goal
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phyozawhein&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Phyo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyozawhein&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=phyozawhein&theme=buefy&hide_border=true) 
-
-
-
-#
-
-<!-- <details>
+ <details>
  <summary><h3>👨‍💻 Phyo's Career Goal</h3></summary>
    -->
 
