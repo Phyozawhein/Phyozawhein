@@ -49,6 +49,7 @@ I'm a computer science graduate from City College of New York. I am a software d
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=phyozawhein&layout=compact&theme=buefy&hide_border=true")
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/PhyoZawHein?theme=buefy&ext=activity)
 </div>
 
 #
