@@ -41,7 +41,7 @@ I'm a computer science graduate from City College of New York. I am a software d
 
 ## 📊 Stats
 
-<div class="stye" align="center">
+<div class="style" align="center">
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyozawhein&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) -->
 
@@ -49,7 +49,8 @@ I'm a computer science graduate from City College of New York. I am a software d
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=phyozawhein&layout=compact&theme=buefy&hide_border=true)
 
-[LeetCode Stats](https://leetcard.jacoblin.cool/PhyoZawHein?border=0&theme=buefy&ext=activity) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/PhyoZawHein?border=0&theme=buefy&ext=activity) 
+
 </div>
  
 #
