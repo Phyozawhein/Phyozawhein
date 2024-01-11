@@ -43,7 +43,7 @@ I'm a computer science graduate from City College of New York. I am a software d
 
 <div class="style" align="center">
 
-<-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyozawhein&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyozawhein&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) --!>
 
  ![GitHub Streak](https://streak-stats.demolab.com?user=phyozawhein&count_private=true&theme=buefy&hide_border=true)   
 
